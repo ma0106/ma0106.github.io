@@ -131,7 +131,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
 
 
     case 6:
-      document.getElementById("noBtn").innerHTML = "por favooooooor";
+      document.getElementById("noBtn").innerHTML = "NO LE DES PORFAA";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       document.getElementById("sadGifContainer").style.display = "none";
@@ -139,6 +139,11 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("sadGifContainer2").style.display = "none";
       document.getElementById("gifContainer").style.display = "block";
       document.getElementById("happyGifContainer").style.display = "none";
+
+      document.getElementById("siBtn").style.fontSize = "30px";
+      document.getElementById("siBtn").style.padding = "30px 50px";
+      document.getElementById("siBtn").innerHTML = "SI ME QUIERES"
+
       // Vuelve al estado 0
       noButtonState = 0;
       break;
