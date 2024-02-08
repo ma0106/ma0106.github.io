@@ -27,9 +27,9 @@ button {
   font-size: 16px;
   margin: 10px;
   cursor: pointer;
-  background-color: #009705; /* Verde */
+  background-color: #39f500; /* Verde */
   color: rgb(255, 255, 255);
-  border: 2px solid #ffc0cb; /* Bordes rosa */
+  border: 2px solid #b8ee7a; /* Bordes rosa */
   border-radius: 10px; /* Esquinas redondeadas */
 }
 
@@ -38,9 +38,9 @@ button {
   font-size: 16px;
   margin: 10px;
   cursor: pointer;
-  background-color: #ff5733; /* Rojo */
+  background-color: #f02c00; /* Rojo */
   color: white;
-  border: 2px solid #ffc0cb; /* Bordes rosa */
+  border: 2px solid #ff0000; /* Bordes rosa */
   border-radius: 10px; /* Esquinas redondeadas */
 }
 #noBtn span {
