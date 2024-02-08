@@ -4,7 +4,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  background-color: #ffffff;
+  background-color: hsl(8, 49%, 69%);
 }
 
 .container {
@@ -28,7 +28,7 @@ button {
   margin: 10px;
   cursor: pointer;
   background-color: #009705; /* Verde */
-  color: white;
+  color: rgb(255, 255, 255);
   border: 2px solid #ffc0cb; /* Bordes rosa */
   border-radius: 10px; /* Esquinas redondeadas */
 }
